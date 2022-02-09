@@ -1,0 +1,6 @@
+version 1
+version 2
+continue dev version 3 on same day
+version 3
+home edit feature-d on branch
+branch nhan dc data va tiep tu cong viec

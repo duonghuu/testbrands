@@ -1,3 +1,4 @@
 version 1
 version 2
 hotfit feature c v.1
+hotfit feature c v.2 next day

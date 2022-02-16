@@ -1,0 +1,81 @@
+[33mcommit dff1f5c83ff2e8a0271f01baea1943434c419002[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: e3e26a5 7036760
+Author: duonghuu <60811325+duonghuu@users.noreply.github.com>
+Date:   Fri Feb 11 21:33:19 2022 +0700
+
+    Merge branch 'main' of https://github.com/duonghuu/testbrands
+
+[33mcommit e3e26a5de6ebea5576f9b611be71a2e8254f6a5a[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Wed Feb 9 11:06:10 2022 +0700
+
+    add feature d
+
+[33mcommit 70367609ee4dd945de08cc555802cc79272ba67d[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Wed Feb 9 11:06:10 2022 +0700
+
+    add feature d
+
+[33mcommit 3f60b27982c0ff2abd2d5249ab50d5c3871ec507[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Wed Feb 9 10:57:30 2022 +0700
+
+    done hotfix feature c
+
+[33mcommit 53b05b343373f5877169cd5205bcfaa1fb8be018[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Wed Feb 9 10:54:03 2022 +0700
+
+    hotfix feature c v.1
+
+[33mcommit ca127be1090541fb016a8aa6b3406c8c0d9f08c2[m
+Merge: b41cfb6 36c5831
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Wed Feb 9 10:43:43 2022 +0700
+
+    commit before merge
+
+[33mcommit b41cfb6e0d13f3e33296ded7fdf0f04d4e1e214e[m
+Merge: fd83e85 fbd95c2
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Wed Feb 9 09:53:29 2022 +0700
+
+    done feature-c
+
+[33mcommit 36c58318313f62fdbd478716d776a16b71b5985e[m
+Merge: fd83e85 fbd95c2
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Wed Feb 9 09:53:29 2022 +0700
+
+    Merge branch 'feature-c'
+
+[33mcommit fbd95c24adb90ab0a62b4a5133ba26fd62fcce6c[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Mon Mar 22 08:07:14 2021 +0700
+
+    feature c v.2
+
+[33mcommit 6c7cdfd23f4b6171a65c2a51d2350bd629057f5f[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Sat Mar 20 12:10:11 2021 +0700
+
+    feature c v.1
+
+[33mcommit fd83e859711077b49654d8a06e0f38860d695bcf[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Fri Mar 19 08:24:40 2021 +0700
+
+    done feature b
+
+[33mcommit 84577f52b01c640b544a2eb3211b773556438b98[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Mon Mar 15 13:17:32 2021 +0700
+
+    done feature a
+
+[33mcommit 612b536e61f3fa937c2ddfe531f36f1fd76958d8[m
+Author: duonghuu <huuduong9@gmail.com>
+Date:   Mon Mar 15 13:05:31 2021 +0700
+
+    1 init
